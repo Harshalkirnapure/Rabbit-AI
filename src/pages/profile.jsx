@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
+/*Created by Nikita Kapse */
+
 const ProfilePage = () => {
   const navigate = useNavigate();
 

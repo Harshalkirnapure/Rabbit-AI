@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
+/*Created by Gautam  Hatmode */
+
 const JobPreferences = () => {
   const [role, setRole] = useState("");
   const [locations, setLocations] = useState(["Hyderabad", "Delhi"]);

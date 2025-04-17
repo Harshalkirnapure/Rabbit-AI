@@ -3,6 +3,8 @@ import axios from "axios";
 import "./VerifyOTP.css"; // optional: for extra styling
 import { useNavigate } from "react-router-dom";
 
+/*Created by harshal Kirnapure */
+
 const VerifyOTP = () => {
   const email = localStorage.getItem("email");
   const navigate = useNavigate();
