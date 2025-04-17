@@ -1,0 +1,59 @@
+.otp-box {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+
+    width: 836;
+    height: 641.8037109375;
+    top: 55.35px;
+    left: 302px;
+    gap: 24px;
+
+  }
+  
+  .otp-input {
+    width: 40px;
+    height: 50px;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border 0.2s;
+  }
+  
+  .otp-input:focus {
+    border: 2px solid #a855f7; /* purple border */
+  }
+
+  .ptext{
+    width: 714;
+    height: 102;
+     
+    font-size: 25px;
+     font-weight: 700;
+
+  }
+.magic{
+  display: flex;
+  width: 332.35223388671875;
+  height: 41.35224151611328;
+  gap: 8px;
+  border-radius: 9.51px;
+  padding: 8px;
+  background: #EFFFF3;
+
+}
+.magic p{
+  font-family: Inter;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0%;
+color: #0AAE2F;
+}
+text{
+  text-align: left;
+  
+}

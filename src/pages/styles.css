@@ -1,0 +1,70 @@
+body {
+    background: white;
+    color: #000;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .container {
+    background: #fff;
+    padding: 3rem;
+    border-radius: 10px;
+    text-align: center;
+    width: 836px;
+    height: 608px;
+    max-width: 400px;
+  }
+  .logo{
+    justify-items: center;
+  }
+  .rlogo{
+    width: 136;
+    height: 32;
+     gap: 6px;
+
+  }
+  h1 {
+     font-size: 27px;
+     font-weight: 600;
+  }
+  .roles {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  input[type="email"],
+  input[type="text"] {
+    padding: 0.7rem;
+    width: 100%;
+    margin: 0.5rem 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  button {
+    width: 100%;
+    padding: 0.7rem;
+    margin-top: 1rem;
+    background: #5C27C0;
+
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  button.google {
+   
+    background: #333;
+    margin-top: 0.5rem;
+  }
+  .footer {
+    margin-top: 1rem;
+    font-size: 14px;
+  }
+  .footer a {
+    color: #007AFF;
+  }
+ .sign{
+  color: #007AFF  ;
+ }
